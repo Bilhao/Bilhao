@@ -17,8 +17,8 @@
 Biomedical Engineering student at **Instituto Superior Técnico (IST - Universidade de Lisboa)**, working at the intersection of biomedical technologies, machine learning, and software engineering.
 
 - **Biosignal Processing & Neuroengineering:** Development of adaptive filtering algorithms, electrical stimulation artifact reduction, and closed-loop control systems for neuromodulation (sEMG, EEG).
-- **Software & Mobile Engineering:** Multiplatform applications in **Flutter/Dart** with offline-first architecture, local SQLite persistence, and production releases on the Google Play Store.
 - **Machine Learning & Computational Biology:** Probabilistic graphical models (Bayesian networks), deep learning for medical imaging, and algorithmic sequence analysis.
+- **Software & Mobile Engineering:** Multiplatform applications in **Flutter/Dart** with offline-first architecture, local SQLite persistence, and production releases on the Google Play Store.
 
 ---
 
@@ -42,16 +42,6 @@ Biomedical Engineering student at **Instituto Superior Técnico (IST - Universid
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Bilhao/Coram-Deo">Coram Deo</a></h3>
-      <p align="center">
-        Full-featured devotional and spiritual reading mobile application published on the Google Play Store (in testing). Engineered with Flutter, offline-first SQLite databases, and notification services.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Google%20Play-In%20Testing-green?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center">NeuroAdapt Closed-Loop ML</h3>
       <p align="center">
         Computational pipeline for electrical stimulation artifact suppression (sEMG/TENS and EEG/tACS) and real-time adaptive closed-loop control leveraging DSP and adaptive filtering (LMS/RLS).
@@ -61,8 +51,6 @@ Biomedical Engineering student at **Instituto Superior Técnico (IST - Universid
         <img src="https://img.shields.io/badge/Biosignals-Closed--Loop-brightgreen?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Bilhao/Bayesian-Network-Classifier">Bayesian Network Classifier</a></h3>
       <p align="center">
@@ -73,6 +61,8 @@ Biomedical Engineering student at **Instituto Superior Técnico (IST - Universid
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/Bilhao/LCS-Conserved-Genomic-Regions">LCS Conserved Genomic Regions</a></h3>
       <p align="center">
@@ -81,6 +71,16 @@ Biomedical Engineering student at **Instituto Superior Técnico (IST - Universid
       <p align="center">
         <img src="https://img.shields.io/badge/Bioinformatics-Python-yellow?style=flat-square" />
         <img src="https://img.shields.io/badge/Visualization-Plotly-purple?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Bilhao/Coram-Deo">Coram Deo</a></h3>
+      <p align="center">
+        Full-featured devotional and spiritual reading mobile application published on the Google Play Store (in testing). Engineered with Flutter, offline-first SQLite databases, and notification services.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Google%20Play-In%20Testing-green?style=flat-square" />
       </p>
     </td>
   </tr>
