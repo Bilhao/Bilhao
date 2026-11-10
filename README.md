@@ -20,12 +20,27 @@ Biomedical Engineering student at **Instituto Superior Técnico (ULisboa)** with
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilhao&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilhao&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilhao&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilhao&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+</picture>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilhao&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" height="165" alt="Top Languages" />
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilhao&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilhao&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f&hide_border=true">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilhao&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" height="165" alt="Top Languages" />
+</picture>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilhao&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bilhao&theme=github-dark-blue&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bilhao&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilhao&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 </div>
