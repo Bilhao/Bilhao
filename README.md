@@ -1,47 +1,57 @@
+ <div align="center">
+
 # Rafael Bilhão
 
-**Biomedical Engineering Student at Instituto Superior Técnico**
+**Biomedical Engineering Student · Software Developer**
 
-[Instituto Superior Técnico](https://tecnico.ulisboa.pt/) · Lisbon, Portugal · [LinkedIn](https://www.linkedin.com/in/rafaelbilhao) · [Email](mailto:rafaelr.bilhao@gmail.com)
+[![IST](https://img.shields.io/badge/Instituto_Superior_Técnico-ULisboa-009DE0?style=flat-square)](https://tecnico.ulisboa.pt/)
+[![Location](https://img.shields.io/badge/Lisbon-Portugal-495057?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Lisbon,Portugal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelbilhao)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaelr.bilhao@gmail.com)
+
+</div>
 
 ---
 
-### About
+### About Me
 
-I'm a Biomedical Engineering student at Instituto Superior Técnico, University of Lisbon, interested in the intersection of engineering, computing and healthcare.
+I'm a Biomedical Engineering student at **Instituto Superior Técnico, University of Lisbon**.
 
-I enjoy understanding how things work and using programming to solve practical problems. My interests include biomedical signal processing, machine learning, computational biology and software development.
+I'm particularly interested in the intersection of engineering, computing and healthcare, and in how software and computational methods can be applied to solve problems in biomedical science.
 
-Outside my coursework, I work on personal projects, particularly mobile applications and tools that explore the applications of technology in everyday life.
+I enjoy exploring different areas of technology, developing software and learning through practical projects.
 
-### Interests
+### Areas of Interest
 
-- **Biomedical Engineering** — Biosignal processing, neuroengineering and medical technologies.
-- **Computing & AI** — Machine learning, data science and computational biology.
-- **Software Development** — Python, mobile development and building practical applications.
+- **Biomedical Engineering:** Biosignal processing, neuroengineering and biomedical technologies.
+- **Artificial Intelligence:** Machine learning, data science and computational biology.
+- **Software Development:** Mobile applications, algorithms and software engineering.
 
-### Technologies
+### Tech Stack
 
-**Languages:** Python · Dart · Java · C++ · SQL
+<div align="center">
 
-**Data & Scientific Computing:** NumPy · Pandas · SciPy · Scikit-learn · TensorFlow
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Data & Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) |
+| **Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Tools & Environment** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-**Development:** Flutter · SQLite · Git · Linux
+</div>
 
-### Selected Projects
+---
 
-**[Coram Deo](https://github.com/Bilhao/Coram-Deo)**
+### GitHub Activity
 
-A Catholic prayer and devotional reading application built with Flutter. Designed around offline access, local databases and a simple reading experience.
+<div align="center">
 
-**[Bayesian Network Classifier](https://github.com/Bilhao/Bayesian-Network-Classifier)**
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilhao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
 
-A Java implementation of Bayesian networks for classification, featuring structure learning through Greedy Hill Climbing and MDL scoring.
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilhao&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 
-**[LCS Conserved Genomic Regions](https://github.com/Bilhao/LCS-Conserved-Genomic-Regions)**
+<br/>
 
-A Python tool for identifying and visualizing conserved regions across biological sequences using dynamic programming.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilhao&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-**NeuroAdapt — Biosignal Processing**
-
-An ongoing project exploring adaptive filtering and electrical stimulation artifact reduction in biomedical signals.
+</div>
