@@ -15,17 +15,7 @@
 
 ### About Me
 
-I'm a Biomedical Engineering student at **Instituto Superior Técnico, University of Lisbon**.
-
-I'm particularly interested in the intersection of engineering, computing and healthcare, and in how software and computational methods can be applied to solve problems in biomedical science.
-
-I enjoy exploring different areas of technology, developing software and learning through practical projects.
-
-### Areas of Interest
-
-- **Biomedical Engineering:** Biosignal processing, neuroengineering and biomedical technologies.
-- **Artificial Intelligence:** Machine learning, data science and computational biology.
-- **Software Development:** Mobile applications, algorithms and software engineering.
+Biomedical Engineering student at **Instituto Superior Técnico (ULisboa)** with an academic focus on electronics, signal processing, neuroengineering, and computing. Building practical projects around circuits, sensor acquisition, and hardware-software interfacing.
 
 ### Tech Stack
 
