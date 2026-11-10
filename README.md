@@ -20,12 +20,12 @@ Biomedical Engineering student at **Instituto Superior Técnico (ULisboa)** with
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilhao&show_icons=true&theme=github-dark-blue&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilhao&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilhao&layout=compact&theme=github-dark-blue&hide_border=true" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilhao&layout=compact&hide_border=true" height="165" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilhao&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilhao&hide_border=true" alt="GitHub Streak" />
 
 </div>
